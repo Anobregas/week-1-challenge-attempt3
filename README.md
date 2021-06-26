@@ -1,4 +1,7 @@
 # week-1-challenge-attempt3
+
+This weeks task was to attempt to refractor code that was provided. Below I have attached the directions that we were provided. Maybe when I complete the class I can look back at the instructions and revisit the challange and give it an update. 
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
@@ -8,3 +11,4 @@ Your task is to refactor an existing webpage to make it accessible. An important
 > Always leave the code you are editing a little cleaner than you found it.
 
 To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+This weeks task was to attempt to refractor code that was provided. Below I have attached the directions that we were provided. Maybe when I complete the class I can look back at the instructions and revisit the challange and give it an update. 
